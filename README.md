@@ -10,7 +10,7 @@ Some examples:
 # Installing
 
 ## Sound replacements
-Preferred. Addon agnostic, replaces every sound effect with a silenced .wav. Just place the sound folder in your WoW Data folder.
+Preferred. Addon agnostic, replaces every sound effect with a silent sound file. Just place the sound folder in your WoW Data folder.
 
 By default several folders are commented out (#) as to not mute them, but they contain the full set of sounds. You can make your own modifications by taking from these.
 
